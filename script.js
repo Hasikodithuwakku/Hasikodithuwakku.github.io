@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*====typed.js===*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Hasini Chamalka', 'Project Manager', 'Frontend Developer', 'Content Writer'],
+    strings: ['Hasini Chamalka', 'Project Manager', 'Business Analytics Enthusiast', 'Frontend Developer', 'Content Writter'],
     typeSpeed: 60,
     backSpeed: 60,
     backDelay: 500,
